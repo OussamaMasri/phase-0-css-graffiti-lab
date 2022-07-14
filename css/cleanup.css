@@ -1,1 +1,29 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+    display: none;
+}
+
+#wall #tag-2 {
+    display: none;
+}
+
+#wall #tage-3 {
+    display: none;
+}
+
+#wall #tage-4 {
+    display: none;
+}
+
+#wall #tage-5 {
+    display: none;
+}
+
+#wall #tage-6 {
+    display: none;
+}
+
+#wall #tage-7 {
+    display: none;
+}
